@@ -1,7 +1,12 @@
 Kudo's to AI Jason's introduction for Hugging Face + Langchain, attached the source code
 Build your own AI apps by leveraging Hugging Face AI models
 
-=============================================================================================
+- Download the source code to your local machine
+- create .env file for your Hugging face & OpenAI API key
+- Upload a local picture to your source code folder, map and replace with file path
+- Run the code and have fun
+
+======================================================
 The content highlights of the YouTube video titled "Hugging Face + Langchain in 5 mins | Access 200k+ FREE AI models for your AI apps" are as follows
 
 The video introduces Hugging Face as a top AI company valued at more than 2 billion dollars with over 16,000 followers on GitHub. It is used by tech giants like Google, Amazon, Microsoft, and Meta.
