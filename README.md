@@ -6,6 +6,10 @@ Build your own AI apps by leveraging Hugging Face AI models
 - Upload a local picture to your source code folder, map and replace with file path
 - Run the code and have fun
 
+Hint:
+- If you receive below error message, flush your DNS cache. You can do this on Windows by running "ipconfig /flushdns" in the Command Prompt.
+  "ConnectionError: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/espnet/kan-bayashi_ljspeech_vits (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C7C63CF2D0>: Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))"
+
 ======================================================
 The content highlights of the YouTube video titled "Hugging Face + Langchain in 5 mins | Access 200k+ FREE AI models for your AI apps" are as follows
 
